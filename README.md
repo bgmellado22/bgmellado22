@@ -11,9 +11,8 @@
 
 ## 🛠️ Tecnologías
 - PostgreSQL
-- MySQL
 - SQL Server
-- Git & GitHub
+- MySQL
+- Git 
 - Linux
-- Docker (básico)
 
