@@ -1,7 +1,7 @@
 # 👋 Hola, soy Bastihan González
 
 🎓 Estudiante de Ingeniería Informática  
-🎯 Enfocado en especializarme como Administrador de Bases de Datos
+🎯 Enfocado en especializarme como Cloud Database Engineer
 
 ## 🧠 Áreas de interés
 - Administración de Bases de Datos
