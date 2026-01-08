@@ -5,6 +5,7 @@
 
 ## 🧠 Áreas de interés
 - Administración de Bases de Datos
+- Cloud Computing
 - Modelamiento de datos
 - Optimización de consultas
 - Seguridad y respaldo de información
