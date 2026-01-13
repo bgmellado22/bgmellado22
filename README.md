@@ -1,7 +1,7 @@
 # 👋 Hola, soy Bastihan González Mellado
 
 Soy un estudiante de Ingeniería Informática de último año, enfocado en la especialización como Ingeniero de Datos en la Nube. Estoy constantemente estudiando para ser un profesional con habilidades sólidas. 
-Actualmente me encuentroadquiriendo conocimientos de DBA, para posteriormente sumergirme en el mundo de Cloud Computing y tener una curva de aprendizaje completa. 
+Actualmente adquiriendo conocimientos de DBA, para posteriormente adentrarme en el mundo del Cloud Computing y tener una curva de aprendizaje completa. 
 
 ## 🧠 Áreas de interés
 - Administración de Bases de Datos
