@@ -11,9 +11,9 @@ Actualmente adquiriendo conocimientos de DBA, para posteriormente adentrarme en 
 - Seguridad y respaldo de información
 
 ## 🛠️ Tecnologías que estoy aprendiendo
-- PostgreSQL
+- PostgreSQL (pgadmin4 y Ubuntu)
 - Linux
+- AWS
 - Docker
 - Git
-- Azure
 
