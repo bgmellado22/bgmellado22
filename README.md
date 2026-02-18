@@ -7,7 +7,7 @@
 Through my Computer Science degree, I discovered the world of Mobile Development. The perfect place to blend programming and design. 📱🎨
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,sqlite,git,github,linux,ubuntu,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,sqlite,firebase,git,github,linux,ubuntu,notion)](https://skillicons.dev)
 
 ### Coming Soon
 [![My Skills](https://skillicons.dev/icons?i=swift,figma)](https://skillicons.dev)
