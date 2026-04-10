@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003EE6" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+Bastihan;Mobile+Development;Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=003EE6&width=435&lines=Hello%2C+I'm+Bastihan;Mobile+Development;Artist" alt="Typing SVG" />
 </a>
 
 Through my Computer Science degree, I discovered the world of Mobile Development. The perfect place to blend programming and design. 📱🎨
