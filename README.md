@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=003EE6&width=435&lines=Hello%2C+I'm+Bastihan;Mobile+Development;Artist" alt="Typing SVG" />
 </a>
 
-Through my Computer Science degree, I discovered the world of Mobile Development. The perfect place to blend programming and design. 📱🎨
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,sqlite,firebase,git,github,linux,ubuntu,notion)](https://skillicons.dev)
