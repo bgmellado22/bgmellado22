@@ -5,7 +5,7 @@
 
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,react,javascript,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,react,javascript,git,github,figma,notion)](https://skillicons.dev)
 
 ### Other Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,mongodb,sqlite)](https://skillicons.dev)
